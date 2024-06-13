@@ -5,6 +5,7 @@ Scripts used for behavioral analysis of a novel head-fixed 2AFC task I developed
 ![fig1_visuospatial_categorical_2AFC_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/dff00e08-52c0-4725-ae98-47a7d98dfa24)
 ![fig4_lick_confirmation_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/54075fce-9609-4f8f-93d6-53ad72c8c658)
 ![fig5_hardware_full_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/4dbf0f9f-83c3-4015-a8bd-59638955f216)
+![fig13_2AFC GUI and state machine_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/1ce82279-b575-4e50-a87f-4b86513867d3)
 ![fig7_circuit diagram_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/c2d0835c-45ee-486c-9429-ca648485ce6c)
 ![fig8_hardware_soundprofile_linear_actuators_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/1239618e-de24-4816-8250-778cbcce9aae)
 ![fig10_hardware_soundproofing_headfixed](https://github.com/aozgur360/head-fixed-2AFC/assets/77759136/77fe1bd9-0745-4e6f-8a87-fb79c74f1b02)
